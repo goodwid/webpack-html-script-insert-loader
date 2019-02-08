@@ -1,3 +1,3 @@
-const insertTag = require('./lib/plugin');
+const insertTag = require('./lib/loader');
 
 module.exports = insertTag;
