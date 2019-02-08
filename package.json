@@ -3,6 +3,7 @@
   "version": "0.0.4",
   "description": "Webpack loader to insert a script tag into HTML",
   "main": "index.js",
+  "repository": "https://github.com/goodwid/webpack-html-script-insert-loader.git",
   "scripts": {
     "test": "mocha",
     "test:watch": "mocha -w"
