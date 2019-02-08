@@ -4,7 +4,8 @@
   "description": "Webpack loader to insert a script tag into HTML",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test:watch": "mocha -w"
   },
   "keywords": [
     "webpack",
