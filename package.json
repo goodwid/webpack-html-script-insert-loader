@@ -1,6 +1,6 @@
 {
   "name": "webpack-html-script-insert-loader",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Webpack loader to insert a script tag into HTML",
   "main": "index.js",
   "repository": "https://github.com/goodwid/webpack-html-script-insert-loader.git",
